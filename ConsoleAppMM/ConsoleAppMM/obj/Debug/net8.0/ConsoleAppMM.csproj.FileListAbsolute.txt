@@ -1,0 +1,14 @@
+C:\Users\hp\Desktop\MM\ConsoleAppMM\ConsoleAppMM\bin\Debug\net8.0\ConsoleAppMM.exe
+C:\Users\hp\Desktop\MM\ConsoleAppMM\ConsoleAppMM\bin\Debug\net8.0\ConsoleAppMM.deps.json
+C:\Users\hp\Desktop\MM\ConsoleAppMM\ConsoleAppMM\bin\Debug\net8.0\ConsoleAppMM.runtimeconfig.json
+C:\Users\hp\Desktop\MM\ConsoleAppMM\ConsoleAppMM\bin\Debug\net8.0\ConsoleAppMM.dll
+C:\Users\hp\Desktop\MM\ConsoleAppMM\ConsoleAppMM\bin\Debug\net8.0\ConsoleAppMM.pdb
+C:\Users\hp\Desktop\MM\ConsoleAppMM\ConsoleAppMM\obj\Debug\net8.0\ConsoleAppMM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\MM\ConsoleAppMM\ConsoleAppMM\obj\Debug\net8.0\ConsoleAppMM.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\MM\ConsoleAppMM\ConsoleAppMM\obj\Debug\net8.0\ConsoleAppMM.AssemblyInfo.cs
+C:\Users\hp\Desktop\MM\ConsoleAppMM\ConsoleAppMM\obj\Debug\net8.0\ConsoleAppMM.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\MM\ConsoleAppMM\ConsoleAppMM\obj\Debug\net8.0\ConsoleAppMM.dll
+C:\Users\hp\Desktop\MM\ConsoleAppMM\ConsoleAppMM\obj\Debug\net8.0\refint\ConsoleAppMM.dll
+C:\Users\hp\Desktop\MM\ConsoleAppMM\ConsoleAppMM\obj\Debug\net8.0\ConsoleAppMM.pdb
+C:\Users\hp\Desktop\MM\ConsoleAppMM\ConsoleAppMM\obj\Debug\net8.0\ConsoleAppMM.genruntimeconfig.cache
+C:\Users\hp\Desktop\MM\ConsoleAppMM\ConsoleAppMM\obj\Debug\net8.0\ref\ConsoleAppMM.dll
